@@ -32,3 +32,4 @@ If the script encounter a problem, the ```notifs.json``` file will contain somet
 # Requirement
 
 To run the script you need to have python3 installed on your system. Furthermore, the script use the library [lxml](http://lxml.de/) so you need to have it.
+
